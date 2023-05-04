@@ -1,0 +1,31 @@
+{
+  "name": "service-registry-client",
+  "version": "1.0.0",
+  "description": "Service registry client for Node Eureka Server implementation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiteshVishwakarma896/service-registry-client.git"
+  },
+  "keywords": [
+    "Service",
+    "Registry",
+    "Service-Registry",
+    "Microservice",
+    "Client",
+    "Service-Registry-Client"
+  ],
+  "author": "Nitesh Vishwakarma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiteshVishwakarma896/service-registry-client/issues"
+  },
+  "homepage": "https://github.com/NiteshVishwakarma896/service-registry-client#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.1"
+  }
+}
